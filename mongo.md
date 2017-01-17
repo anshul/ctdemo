@@ -1,4 +1,4 @@
 # Docs on mongo
 
-* We use mongo everywhere!!!
+* We use mongo everywhere.
 
