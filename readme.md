@@ -9,4 +9,5 @@ Hi! This is a demo. These are the commands we have tried so far -
 * git commit
   - This commits the state of the last staged changes.
 * git reset
+* git log
 
